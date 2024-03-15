@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../imgs/matt.jpg);
+    background-size: cover;
+
+}
+.form-label{
+    color: white;
+}
+.col-12 button{
+    color: white;
+}
